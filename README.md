@@ -7,8 +7,6 @@ A free piano visualizer with 8K video rendering and particle effects.
 BetterPiano is an application for creating impressive piano visualizations—with support for QWERTY keyboards and MIDI controllers, gradient textures for keys and notes, animated backgrounds, and WebGL-based rendering.
 
 ## Screenshot
-
-![BetterPiano](assets/screenshot.png)
 <img width="1920" height="911" alt="better_piano_particles (20)" src="https://github.com/user-attachments/assets/933de26b-a5eb-499f-a570-4cd85fa6486a" />
 
 
