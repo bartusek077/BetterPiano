@@ -9,6 +9,8 @@ BetterPiano is an application for creating impressive piano visualizations—wit
 ## Screenshot
 
 ![BetterPiano](assets/screenshot.png)
+<img width="1920" height="911" alt="better_piano_particles (20)" src="https://github.com/user-attachments/assets/933de26b-a5eb-499f-a570-4cd85fa6486a" />
+
 
 ## Features
 
